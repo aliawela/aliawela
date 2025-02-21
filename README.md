@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Awela</h1>
 <h3 align="center">A professional backend developer from Lebanon</h3>
 
-- 🔭 I’m currently working on **Clothes shop website**
+- 🔭 I’m currently working on **SuperMarketManagement website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Asp.net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliawela](https://github.com/aliawela)
 
